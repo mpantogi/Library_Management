@@ -1,0 +1,31 @@
+
+Kodikos:123
+Titlos: University physics
+Suggrafeas: Hugh D. Young
+Selides: 1500
+Diathesimothta: true
+Meres anamonhs: 0
+Kodikos:234
+Titlos: Java Programming
+Suggrafeas: Deitel
+Selides: 1600
+Diathesimothta: true
+Meres anamonhs: 0
+Kodikos:345
+Titlos: Java Texnhth Nohmosunh
+Suggrafeas: Iwannhs Blahabas
+Selides: 800
+Diathesimothta: true
+Meres anamonhs: 0
+Kodikos:456
+Titlos: Digital Design
+Suggrafeas: M. Morris Mano
+Selides: 700
+Diathesimothta: true
+Meres anamonhs: 0
+Kodikos:567
+Titlos: Computer Architecture
+Suggrafeas: Willian Stallings
+Selides: 800
+Diathesimothta: true
+Meres anamonhs: 0
